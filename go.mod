@@ -1,3 +1,3 @@
-module cuishuaijie/go-examples
+module tomato/go-examples
 
 go 1.13
